@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Simple Demo</title>
+	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+	<div class="menu-bar">
+		<div style="background-image: url('6.jpg');">
+
+  
+     <ul>
+     	<li><a href="#"><i class="fa fa-home"></i> Home</a> </li>
+       <li><a href="#"><i class="fa fa-camera"></i> Project</a>
+     	<div class="sub-menu-1">
+     		<ul>
+     			<li><a href="#">Mission</a></li>
+     			<li><a href="#">Target</a></li>
+     			<li><a href="#">Order</a></li>
+     			<li><a href="#">Ready</a></li>
+     		</ul>
+     	</div>
+     	</li>
+     	<li><a href="#"><i class="fa fa-fax"></i> Autocat Work </a>
+     	 <div class="sub-menu-1">
+     		<ul>
+     			<li><a href="#">Day-first</a></li>
+     			<li><a href="#">Day-second</a></li>
+     			<li><a href="#">Day-third</a></li>
+     			<li><a href="#">Day-fourth</a></li>
+     		</ul>
+     	</div>
+     </li>
+     	<li><a href="#"><i class="fa fa-meetup"></i> Clients </a> 
+     		<div class="sub-menu-1">
+     		<ul>
+     			<li><a href="#">Ajit</a></li>
+     			<li><a href="#">Avi kafle</a></li>
+     			<li><a href="#">yogesh</a></li>
+     			<li><a href="#">Thakur</a></li>
+     			<li><a href="#">Kamu</a></li>
+     			<li><a href="#">Daure</a></li>
+     		</ul>
+     	</div>
+     	</li>
+     	<li><a href="#"><i class="fa fa-bolt"></i> Design </a> 
+     		<div class="sub-menu-1">
+     		<ul>
+     			<li><a href="#">1D</a></li>
+     			<li><a href="#">2D</a></li>
+     			<li><a href="#">3D</a></li>
+     			<li><a href="#">4D</a></li>
+     		</ul>
+     	</div>
+     	</li>
+     	<li><a href="#"><i class="fa fa-bug"></i> Gellery </a> 
+     		<div class="sub-menu-1">
+     		<ul>
+     			<li><a href="#">school pics</a></li>
+     			<li><a href="#">Birthday pics</a></li>
+     			<li><a href="#">Family pics</a></li>
+     			<li><a href="#">Friends pics</a></li>
+     		</ul>
+     	</div>
+     	</li>
+     	<li><a href="#"><i class="fa fa-address-book"></i>     contact </a>
+     		<div class="sub-menu-1">
+     		<ul>
+     			<li><a href="#">Girlfriend</a></li>
+     			<li><a href="#">Family</a></li>
+     			<li><a href="#">Friends</a></li>
+     			<li><a href="#">Business</a></li>
+     		</ul>
+     	</div>
+     	 </li>
+     </ul> 
+ </div>
+ </body>
+</html>
