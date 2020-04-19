@@ -1,0 +1,51 @@
+*
+{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+
+}
+body 
+{
+	background-image: url(b.jpg);
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;	
+}
+p
+{
+	padding: 20;
+	margin: 20;
+	color: white;
+	list-style: bold;
+}
+.menu-bar
+{
+	background:rgb(0,100,0);
+	text-align: right;
+}
+.menu-bar ul
+ {
+ display: inline-flex;
+ list-style: none;
+ color: white;
+	
+}
+.menu-bar ul li
+{
+	width: 100px;
+	margin: 12px;
+	padding: 5px;
+
+}
+.menu-bar ul li a
+{
+	text-decoration: none;
+	color: white;
+}
+.active, .menu-bar ul li:hover
+{
+	background: #2bab0d;
+	border-radius: 3px;
+	
+}
